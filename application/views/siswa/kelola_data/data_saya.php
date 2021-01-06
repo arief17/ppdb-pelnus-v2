@@ -12,12 +12,13 @@
 
 		<section class="content">
 
-			<div class="row mt-4">
-				<div class="col-md-12">
-					<div class="alert alert-danger" role="alert">
-						<strong>Kolom yang ditandai <span style="color: red;">* Merah</span> wajid diisi. Periksa Kembali data yang telah diisi sebelum dikirim</strong>
-					</div>
-				</div>
+
+            <div class="row mt-4">
+                <div class="col-md-12">
+                    <div class="alert alert-danger" role="alert">
+                        <strong>Harap Lengkapi semua Data dengan Benar, Periksa Kembali data yang telah diisi sebelum disimpan</strong>
+                    </div>
+                </div>
 			</div>
 
 			<nav>
